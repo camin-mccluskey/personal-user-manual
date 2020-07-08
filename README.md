@@ -1,7 +1,3 @@
-# Personal User Manual
-
-Welcome my Personal User Manual! If you'd like to create your own check out this [template](https://github.com/camin-mccluskey/Personal-User-Manual-Template).
-
 ## About Me
 
 I am from Northern Ireland, studied Business Management in the UK and Computer Science with a focus on Machine Learning in the US. I work in the Identity Infrastructure team at [Skyscanner](https://skyscanner.net). Outside of work I am a keen golfer, although I don't get to play much in London. Lately I've been trying, mostly unsuccessfully, to learn how to play the piano. I also mess around with React Native for my own app [inHouse](https://inhouseapp.io) and recently I've been experimenting with with Clojure and [PySyft](https://github.com/OpenMined/PySyft) in my spare time.
