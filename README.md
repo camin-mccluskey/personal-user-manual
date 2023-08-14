@@ -10,9 +10,9 @@ In my spare time I'm a pretty avid reader, so do tell me if you've read somethin
 
 ## How to Contact Me
 
-I work in the office by default so feel free to chat in person if you feel the discussion is best done synchronously. If it can wait, or if async communication is okay, then I prefer Slack (I tend to check Slack & email every couple of hours and batch my replies). I know it can be a little weird to Slack message someone that's sitting right beside you but I've found it's pretty effective to avoid pulling someone out of context.
+I work in the office by default so feel free to chat in person, if you feel the discussion is best done synchronously. If it can wait, or if async communication is okay, then I prefer Slack (I tend to check Slack & email every couple of hours and batch my replies). I know it can be a little weird to Slack message someone that's sitting right beside you but I've found it's pretty effective, to avoid pulling someone out of context.
 
-I try to clear all emails and Slack messages by every evening so if something important comes up feel free to message outside of working hours, I'll make sure to get back to you before the start of the day.
+I try to clear all emails and Slack messages every evening, so if something important comes up feel free to message outside of working hours, I'll make sure to get back to you before the start of the day.
 
 ## Preferred Working Style
 
@@ -32,7 +32,7 @@ I enjoy the process of gathering data, learning and iterating. In many ways I fi
 
 I don't particularly enjoy writing documentation for products and services that already exist. Although I do enjoy writing design documents and documenting services as they are being built, so I think it's the piecing together of stale information that I find a little frustrating.
 
-I enjoy debating the merits of different approaches and feel I learn a lot from others, through that process. However, when discussions become a battle of opinions over data, where data is available, I find to be demotivating.
+I enjoy debating the merits of different approaches and feel I learn a lot from others, through that process. However, when discussions become a battle of opinions over data, where data is available, I find that to be demotivating.
 
 ## My Values (and what I value in others)
 
@@ -48,10 +48,10 @@ I'm always open to directed constructive feedback, feel free to drop me a messag
 
 - Balancing planning with learning-by-doing. I have a tendency to plan a bit _too_ much when I should be just getting stuck in, learning and iterating.
 - Celebrating small wins, more generally jumping off the [hedonic treadmill](https://en.wikipedia.org/wiki/Hedonic_treadmill).
-- Testing frontend code, something I'm woefully under-practiced at.
+- Testing frontend code, something at which I'm woefully under-practiced.
 - Giving more direct feedback. I enjoy working in, and want to create, high performance teams. Taking **and** giving directed & constructive feedback is crucial to maintaining that culture.
 
-I really enjoy learning from the experience of others so please feel free to share your thoughts on any of the above. It's also a huge bonus if you have book or talk recommendations.
+I really enjoy learning from the experience of others, so please feel free to share your thoughts on any of the above. It's also a huge bonus if you have book or talk recommendations.
 
 ## My Pet Peeves
 
