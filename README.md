@@ -4,7 +4,7 @@
 
 I am from Northern Ireland, studied Management at the London School of Economics and spent some time at UC Berkeley studying Computer Science with a focus on Machine Learning. I am the Co-Founder and CTO of [Stackfix](https://stackfix.com), where we're building an AI-powered marketplace that enables businesses to buy, implement and optimise the right software in seconds.
 
-Before this I co-founded another startup, Telescope (we used ML for sales outreach) and was a software engineer at Skyscanner where I worked on Identity Infrastructure.
+Previously, I co-founded another startup, Telescope (we used ML for sales outreach) and was a software engineer at Skyscanner where I worked on Identity Infrastructure.
 
 In my spare time I'm a pretty avid reader, so do tell me if you've read something great recently. I also try to golf as much as possible and play around with some programming languages and frameworks we don't (yet) use at Stackfix (currently Rust and Clojure mostly).
 
